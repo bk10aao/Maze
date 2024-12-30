@@ -1,4 +1,4 @@
-package AOC2024;
+package Maze;
 
 
 import Utils.ReadFile;
